@@ -14,7 +14,7 @@ Install inquirer as needed dependencies.
 Type npm start in terminal to start application.
 
 ## Usage
-Demo video link on usage: 
+Demo video link on usage: https://drive.google.com/file/d/1P7sbwOM75MbY6m8E09YjDgQdNPaUeTJM/view?usp=sharing
 
 ## License
 
