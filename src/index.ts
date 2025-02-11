@@ -4,9 +4,12 @@ import Car from "./classes/Car.js";
 import Motorbike from "./classes/Motorbike.js";
 import Wheel from "./classes/Wheel.js";
 import Cli from "./classes/Cli.js";
+import inquirer from "inquirer";
+import typescript from "typescript";
 
 // create an array of vehicles
 const vehicles = [];
+
 
 // TODO: uncomment once trucks are implemented
 // const truck1 = new Truck(Cli.generateVin(),"red", "Ford", "F-150", 2021, 5000, 120, [], 10000);
